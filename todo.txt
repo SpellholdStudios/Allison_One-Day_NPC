@@ -1,0 +1,2 @@
+- Include BWP Fixpack patches
+- Add native EE compatibility
