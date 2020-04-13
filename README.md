@@ -21,8 +21,7 @@ Baldur's Gate Trilogy and EET<h3>
 
 **Note:** This mod was first released at <a href="http://web.archive.org/web/20120414212350/http://www.rpgdungeon.net/content/view/25/40/">RPGDungeon.net</a>. As this site is no more available since many years, it was time to save it from disappearance. It is now hosted at Spellhold Studios with Rastor authorization.
 
-:warning: **_version 1.8 is the latest RPG Dungeon version and needs an update!_**
-
+:warning: **_version 1.8 is the latest RPG Dungeon version and needs an update! It won't work with EE games._**
 
 &nbsp;
 
