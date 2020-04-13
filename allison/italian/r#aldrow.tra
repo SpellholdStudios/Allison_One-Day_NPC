@@ -1,0 +1,43 @@
+// Allison's drow soundset
+
+/* MORALE */              @0  = ~Mi rifiuto di morire per mano di questo folle!~ []
+/* HAPPY */
+/* UNHAPPY_ANNOYED */     @2  = ~Perché ci stiamo trastullando?~ []
+/* UNHAPPY_SERIOUS */
+/* UNHAPPY_BREAKING */
+/* LEADER */              @5  = ~Le femmine sono il sesso superiore.~ []
+/* TIRED */               @6  = ~Dovremmo fermarci a riposare, *ora.*~ []
+/* BORED */               @7  = ~Perché stiamo qui fermi? Dobbiamo fare qualcosa!~ []
+/* BATTLE_CRY1 */
+/* BATTLE_CRY2 */
+/* BATTLE_CRY3 */
+/* BATTLE_CRY4 */
+/* BATTLE_CRY5 */
+/* DAMAGE */              @13  = ~Ouch!~ []
+/* DYING */
+/* HURT */                @15  = ~Il mio bellissimo corpo é pieno di sangue!~ []
+/* AREA_FOREST */         @16  = ~Tutto questo verde é...é *disgustoso!*~ []
+/* AREA_CITY */           @17  = ~Ah, la città. E’ pieno di gente da schiavizzare.~ []
+/* AREA_DUNGEON */        @18  = ~Possiamo fare altro in un sotterraneo oltre a cercare tesori...~ [] // This line should be flirtatious
+/* AREA_DAY */            @19  = ~La luce! BRUCIA!~ []
+/* AREA_NIGHT */          @20  = ~Nell’oscurità é facile assalire i nemici.~ []
+/* SELECT_COMMON1 */      @21  = ~Cosa *vuoi*?~ []
+/* SELECT_COMMON2 */      @22  = ~Mi devi scocciare?~ []
+/* SELECT_COMMON3 */      @23  = ~Sono qui.~ []
+/* SELECT_COMMON4 */      @24  = ~Cosa c’é adesso?~ []
+/* SELECT_COMMON5 */
+/* SELECT_COMMON6 */
+/* SELECT_ACTION1 */      @27  = ~Dovrei obbedire ai tuoi ordini penso.~ []
+/* SELECT_ACTION2 */
+/* SELECT_ACTION3 */
+/* SELECT_ACTION4 */
+/* SELECT_ACTION5 */
+/* SELECT_ACTION6 */
+/* SELECT_ACTION7 */
+/* SELECT_RARE1 */        @34  = ~Non guardarmi il posteriore!~ []
+/* SELECT_RARE2 */        @35  = ~Ti piace quello che vedi, hmm?~ [] // This line should be very flirtatious
+/* CRITICAL_HIT */        @36  = ~Muori! Haha!~ []
+/* CRITICAL_MISS */
+/* TARGET_IMMUNE */
+/* INVENTORY_FULL */      @39  = ~Non *posso* portare altra roba!~ []
+/* SPELL_DISRUPTED */

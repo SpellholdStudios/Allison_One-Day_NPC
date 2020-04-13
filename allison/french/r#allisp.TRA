@@ -1,0 +1,12 @@
+@0    = ~Je ne désire pas quitter ta compagnie, <CHARNAME>. Es-tu certain de ton choix ?~ ~Je ne désire pas quitter ta compagnie, <CHARNAME>. Es-tu certaine de ton choix ?~[R#ALLP01]
+@1    = ~Oui. Malheureusement, je pense qu'il est pour le mieux de nous séparer.~
+@2    = ~Non, je m'excuse. Je voulais virer de cet imbécile de Jan.~
+@3    = ~Hé bien, ce n'est pas ce que je souhaite mais il semble que je n'ai pas le choix.~ [R#ALLP02]
+@4    = ~Si tu as à nouveau besoin de moi, tu me trouveras au Bosquet des Druides.~ [R#ALLP03]
+@5    = ~Très bien. Nous nous reverrons au Bosquet des Druides si nous avons à nouveau besoin de toi.~
+@6    = ~Ce n'est pas possible. Attends-moi ici, nous reviendrons si nous avons besoin de toi.~
+@7    = ~Je suis heureuse d'entendre que tu veux encore de moi. Continuons comme avant !~ [R#ALLP04]
+@8    = ~Tu es revenu! Tu t'es rendu compte que tu avais besoin de moi, finalement ?~ ~Tu es revenue! Tu t'es rendue compte que tu avais besoin de moi, finalement ?~[R#ALLP05]
+@9    = ~(Elle se précipite vers vous pour vous étreindre fermement)~
+@10   = ~Oui. Rejoins le groupe s'il te plait.~
+@11   = ~Non, je n'ai pas besoin de toi pour l'instant. Je suis navré.~ ~Non, je n'ai pas besoin de toi pour l'instant. Je suis navrée.~

@@ -1,0 +1,13 @@
+@0    = ~Non vorrei lasciarti, <CHARNAME>. Ne sei certo?~ [R#ALLP01]
+@1    = ~Si. Mi dispiace, ma ho la sensazione che sarebbe la cosa migliore se lasciassi il gruppo.~
+@2    = ~No, scusami. In realtà volevo che Jan lasciasse il gruppo.~
+@3    = ~Beh, non lo vorrei ma sembra che non abbia altra scelta.~ [R#ALLP02]
+@4    = ~Se dovessi ancora avere bisogno di me, potrai trovarmi al Bosco del Druido.~ [R#ALLP03]
+@5    = ~Molto bene. Allora ci incontreremo al Bosco del Druido, se avremo bisogno ancora di te.~
+@6    = ~No. Aspetta qui, ritorneremo a prenderti se avremo bisogno di te.~
+@7    = ~Sono contenta di sentire che desideri ancora la mia compagnia. Andiamo!~ [R#ALLP04]
+@8    = ~Sei tornato! Alla fine hai deciso che non puoi stare senza di me, dopo tutto?~ [R#ALLP05]
+@9    = ~(lei ti viene incontro e ti stringe tra le braccia)~
+@10   = ~Si. Ti prego, ritorna nel gruppo.~
+@11   = ~Scusami ma non ho bisogno di te ora. Mi dispiace.~
+

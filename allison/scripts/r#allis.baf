@@ -1,0 +1,32 @@
+IF
+  InParty(Myself)
+  Global("XPBalance","LOCALS",0)
+  XPGT(Player1,500000)
+  XPLT(Player1,1000000)
+THEN
+  RESPONSE #100
+    SetGlobal("XPBalance","LOCALS",1)
+    AddXPObject(Myself,500000)
+END
+
+IF
+  InParty(Myself)
+  Global("XPBalance","LOCALS",0)
+  XPGT(Player1,999999)
+  XPLT(Player1,1500000)
+THEN
+  RESPONSE #100
+    SetGlobal("XPBalance","LOCALS",1)
+    AddXPObject(Myself,1000000)
+END
+
+IF
+  InParty(Myself)
+  Global("XPBalance","LOCALS",0)
+  XPGT(Player1,1499999)
+THEN
+  RESPONSE #100
+    SetGlobal("XPBalance","LOCALS",1)
+    AddXPObject(Myself,1500000)
+END
+

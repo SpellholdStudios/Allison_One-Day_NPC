@@ -1,0 +1,151 @@
+// Allison NPC Mod for BG2
+//
+// Version 1.7
+// Release Date: 03/02/2009
+// Programmer: Rastor
+
+BACKUP ~allison/backup~
+AUTHOR ~"Rastor" <rastor@rpgdungeon.net>~
+AUTO_TRA ~allison/%s~
+README ~allison/readme-allison.html~
+
+ALLOW_MISSING
+ ~AR6200.BCS~
+ ~BSAREV25.DLG~
+ ~SARKIS01.DLG~
+ ~GROMNIR.DLG~
+ ~FINMEL01.DLG~
+
+LANGUAGE ~American English~ ~english~ ~allison/english/setup.tra~
+LANGUAGE ~Russian (translation by AERIE.ru)~ ~russian~ ~allison/russian/setup.tra~ ~allison/english/setup.tra~
+LANGUAGE ~German (translation by Wedge)~ ~german~ ~allison/german/setup.tra~ ~allison/english/setup.tra~
+LANGUAGE ~Italian (translation by ilot)~ ~italian~ ~allison/italian/setup.tra~ ~allison/english/setup.tra~
+LANGUAGE ~French (translation by Streen)~ ~french~ ~allison/french/setup.tra~ ~allison/english/setup.tra~
+
+/*
+ * Allison NPC Component
+ */
+
+BEGIN @0
+
+ACTION_IF FILE_EXISTS ~override/r#Allison.rpgd~
+ THEN BEGIN
+  FAIL @4
+ END ELSE BEGIN
+  COPY_EXISTING ~SW1H01.ITM~ ~override/r#Allison.rpgd~
+ END
+
+COPY ~allison/r#allis.cre~ ~override~
+ SAY NAME1 @1
+ SAY NAME2 @1
+ SAY BIO @2
+ WRITE_ASCII PORTRAIT_LARGE ~R#ALLISM~
+ WRITE_ASCII PORTRAIT_SMALL ~R#ALLISS~
+
+// Allison's soundset
+ SAY AREA_DAY @5
+ SAY AREA_CITY @6
+ SAY AREA_NIGHT @7
+ SAY AREA_FOREST @8
+ SAY AREA_DUNGEON @9
+
+ SAY BATTLE_CRY1 @10
+ SAY BATTLE_CRY2 @11
+ SAY BATTLE_CRY3 @12
+ SAY BATTLE_CRY4 @13
+ SAY BATTLE_CRY5 @14
+
+ SAY CRITICAL_HIT @15
+ SAY CRITICAL_MISS @16
+ SAY TARGET_IMMUNE @17
+
+ SAY DAMAGE @18
+
+ SAY SELECT_ACTION1 @19
+ SAY SELECT_ACTION2 @20
+ SAY SELECT_ACTION3 @21
+ SAY SELECT_ACTION4 @22
+ SAY SELECT_ACTION5 @23
+ SAY SELECT_ACTION6 @24
+ SAY SELECT_ACTION7 @25
+
+ SAY SELECT_COMMON1 @26
+ SAY SELECT_COMMON2 @27
+ SAY SELECT_COMMON3 @28
+ SAY SELECT_COMMON4 @29
+ SAY SELECT_COMMON5 @30
+ SAY SELECT_COMMON6 @31
+
+ SAY SELECT_RARE1 @32
+ SAY SELECT_RARE2 @33
+
+ SAY SPELL_DISRUPTED @34
+ SAY INVENTORY_FULL @35
+
+ SAY BORED @36
+ SAY DYING @37
+ SAY HURT @38
+ SAY LEADER @39
+ SAY TIRED @40
+
+ SAY HAPPY @41
+ SAY UNHAPPY_ANNOYED @42
+ SAY UNHAPPY_BREAKING @43
+ SAY UNHAPPY_SERIOUS @44
+
+ SAY MORALE @45
+
+COPY ~allison/voicing~ ~override~
+
+COPY ~allison/graphics~ ~override~
+
+COMPILE ~allison/dialogues~
+
+COMPILE ~allison/scripts/r#allis.baf~
+
+COMPILE ~allison/scripts/r#alcut.baf~ // Allows Allison to do the fight with Faldorn
+
+COMPILE ~allison/scripts/r#aldrow.baf~ // Allison's drow soundset switcher script
+
+EXTEND_TOP ~AR1900.bcs~ ~allison/spawn.bcs~
+
+EXTEND_TOP ~AR6200.BCS~ ~allison/scripts/epilogue.baf~
+
+COPY ~allison/r#allend.2da~ ~override~
+ REPLACE ~999999~ @3
+
+APPEND ~pdialog.2da~
+ ~R#ALLIS R#ALLISP R#ALLISJ R#ALLISD~
+UNLESS ~R#ALLIS~
+UNLESS ~25POST~
+
+APPEND ~pdialog.2da~
+ ~R#ALLIS R#ALLISP R#ALLISJ R#ALLISD R#ALL25P R#ALLISJ R#ALLISD~
+UNLESS ~R#ALLIS~
+IF ~25POST~
+
+APPEND ~interdia.2da~
+ ~R#ALLIS R#ALLISB~
+UNLESS ~R#ALLIS~
+UNLESS ~25POST~
+
+APPEND ~interdia.2da~
+ ~R#ALLIS R#ALLISB R#ALLISB~
+UNLESS ~R#ALLIS~
+IF ~25POST~
+
+// Need to run different files to install audio depending on whether the OS is Windows or Mac
+ACTION_IF (("%WEIDU_OS%" STRING_COMPARE_CASE "osx") = 0)
+ THEN BEGIN
+   AT_INTERACTIVE_EXIT ~sh allison/install.sh~
+   AT_INTERACTIVE_UNINSTALL ~sh allison/uninstall.sh~
+ END ELSE BEGIN
+   AT_INTERACTIVE_EXIT ~allison/allyaudio.bat~
+END
+
+/*
+ * Allison Impersonates a Drow
+ *
+
+BEGIN ~Allison's Underdark Drow Illusion~
+REQUIRE_COMPONENT ~allison/setup-allison.tp2~ #0 */

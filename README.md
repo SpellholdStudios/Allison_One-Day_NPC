@@ -15,11 +15,13 @@ Baldur's Gate Trilogy and EET<h3>
 **Mod Website:** <a href="http://www.shsforums.net/forum/127-mod-resurrections/">Spellhold Studios</a>  
 
 
-[Download the mod at Spellhold Studios](http://www.shsforums.net/files/file/1257-super-firkraag/).<br>
+[Download the mod at Spellhold Studios](http://www.shsforums.net/files/file/1260-allison-one-day-npc/)<br>
 
 &nbsp;
 
 **Note:** This mod was first released at <a href="http://web.archive.org/web/20120414212350/http://www.rpgdungeon.net/content/view/25/40/">RPGDungeon.net</a>. As this site is no more available since many years, it was time to save it from disappearance. It is now hosted at Spellhold Studios with Rastor authorization.
+
+:warning: **_version 1.8 is the latest RPG Dungeon version and needs an update!_**
 
 
 &nbsp;

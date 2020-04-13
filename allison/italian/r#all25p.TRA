@@ -1,0 +1,9 @@
+@0    = ~Non desidero lasciare la tua compagnia, ma se pensi che sia la cosa migliore non ho obiezioni da fare.~ [R#ALLP06]
+@1    = ~Si, penso che sia la cosa migliore. Ci vediamo, Allison.~
+@2    = ~Scusami, ci ho ripensato. Non voglio lasciarti.~
+@3    = ~Aspetterò qui, se dovessi cambiare idea.~ [R#ALLP07]
+@4    = ~Mi fa piacere ascoltare queste parole, <CHARNAME>.~ [R#ALLP08]
+@5    = ~Sei tornato! Questo vuol dire forse che desideri ancora la mia compagnia? (ti guarda speranzosa)~ [R#ALLP09]
+@6    = ~Certo. Per favore ritorna nel gruppo.~
+@7    = ~No, mi dispiace. Per il momento no.~
+

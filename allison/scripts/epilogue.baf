@@ -1,0 +1,11 @@
+IF
+  Global("StartEndBios","AR6200",1)
+  InParty("r#allison")  // r#allison
+  Global("r#AllisonBio","GLOBAL",0)
+THEN
+  RESPONSE #100
+    SetGlobal("r#AllisonBio","GLOBAL",1)
+    TextScreen("r#allend")
+    SmallWait(1)
+    Continue()
+END

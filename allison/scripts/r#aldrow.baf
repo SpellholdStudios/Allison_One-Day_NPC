@@ -1,0 +1,56 @@
+// Allison's Drow Soundset
+//
+// This script will assign Allison's drow soundset and portrait during the time that the party is impersonating
+// drow in the Underdark.  It's a bit more... provocative than her normal soundset.
+//
+// It will also restore her original soundset upon dispelling the drow illusion.
+//
+// Optionally, the player can give her the drow soundset on command.
+
+IF
+ Global("R#AllisonHasDrowSoundset","GLOBAL",0)
+THEN
+ RESPONSE #100
+  SetGlobal("R#AllisonHasDrowSoundset","GLOBAL",1)
+  SetPlayerSound(Myself,@0,MORALE) // ~I refuse to die at the hands of this fool!~
+  SetPlayerSound(Myself,@1,HAPPY)
+  SetPlayerSound(Myself,@2,UNHAPPY_ANNOYED) // ~Why do I waste my time with fools?~
+  SetPlayerSound(Myself,@3,UNHAPPY_SERIOUS)
+  SetPlayerSound(Myself,@4,UNHAPPY_BREAKING)
+  SetPlayerSound(Myself,@5,LEADER) // ~Females truly are the superior sex.~
+  SetPlayerSound(Myself,@6,TIRED) // ~We should stop to rest, *now.*~
+  SetPlayerSound(Myself,@7,BORED) // ~Why are we standing around? I demand we do something!~
+  SetPlayerSound(Myself,@8,BATTLE_CRY1)
+  SetPlayerSound(Myself,@9,BATTLE_CRY2)
+  SetPlayerSound(Myself,@10,BATTLE_CRY3)
+  SetPlayerSound(Myself,@11,BATTLE_CRY4)
+  SetPlayerSound(Myself,@12,BATTLE_CRY5)
+  SetPlayerSound(Myself,@13,DAMAGE) // ~Ouch!~
+  SetPlayerSound(Myself,@14,DYING)
+  SetPlayerSound(Myself,@15,HURT) // ~My beautiful body is covered in blood!~
+  SetPlayerSound(Myself,@16,AREA_FOREST) // ~All this green is...it's *revolting!*~
+  SetPlayerSound(Myself,@17,AREA_CITY) // ~Ah, the city. Filled with people to enslave.~
+  SetPlayerSound(Myself,@18,AREA_DUNGEON) // ~There is more that we can do in a dungeon than find treasures...~
+  SetPlayerSound(Myself,@19,AREA_DAY) // ~The light! It BURNS!~
+  SetPlayerSound(Myself,@20,AREA_NIGHT) // ~It is easier to sneak up on our enemies in the dark.~
+  SetPlayerSound(Myself,@21,SELECT_COMMON1) // ~What do *you* want?~
+  SetPlayerSound(Myself,@22,SELECT_COMMON2) // ~Must you pester me?~
+  SetPlayerSound(Myself,@23,SELECT_COMMON3) // ~I am here.~
+  SetPlayerSound(Myself,@24,SELECT_COMMON4) // ~What now?~
+  SetPlayerSound(Myself,@25,SELECT_COMMON5)
+  SetPlayerSound(Myself,@26,SELECT_COMMON6)
+  SetPlayerSound(Myself,@27,SELECT_ACTION1) // ~I shall obey your orders.~
+  SetPlayerSound(Myself,@28,SELECT_ACTION2)
+  SetPlayerSound(Myself,@29,SELECT_ACTION3)
+  SetPlayerSound(Myself,@30,SELECT_ACTION4)
+  SetPlayerSound(Myself,@31,SELECT_ACTION5)
+  SetPlayerSound(Myself,@32,SELECT_ACTION6)
+  SetPlayerSound(Myself,@33,SELECT_ACTION7)
+  SetPlayerSound(Myself,@34,SELECT_RARE1) // ~Get your eyes off my ass!~
+  SetPlayerSound(Myself,@35,SELECT_RARE2) // ~You like what you see, hmm?~
+  SetPlayerSound(Myself,@36,CRITICAL_HIT) // ~Die! Haha!~
+  SetPlayerSound(Myself,@37,CRITICAL_MISS)
+  SetPlayerSound(Myself,@38,TARGET_IMMUNE)
+  SetPlayerSound(Myself,@39,INVENTORY_FULL) // ~I will *not* carry this!~
+  SetPlayerSound(Myself,@40,SPELL_DISRUPTED)
+END

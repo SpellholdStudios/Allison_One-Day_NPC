@@ -1,0 +1,51 @@
+@0    = ~Allison (One-Day NPC) v1.6~
+@1    = ~Allison~
+@2    = ~ALLISON sapeva da tempo che sarebbe stata destinata a diventare una druida. Lei stessa racconta che, fin da quando era bambina, sognava di essere attratta dalla vita della natura. Lei dice che non ha avuto una vita molto movimentata e il momento che ricorda più volentieri è quando si è unita alla tua compagnia.~
+@3    = ~Una volta lasciata la compagnia di <CHARNAME>, Allison é ritornata alla vita solitaria dei boschi. Lì, lei ha adempiuto ai suoi doveri come fa ogni buon druido. La sua vita non fu molto movimentata, salvo qualche episodio sporadico.
+
+La sera del suo 178° compleanno, un vecchio amico la informò che un altro Druido Tenebroso si era rivoltato e messo al comando del Bosco del Druido a Trademeet. Allison andò lì e sconfisse il nuovo Grande Druido che si era impossessato del Bosco nel rituale di combattimento druidico divenendo lei stessa il nuovo capo dei druidi del Bosco. Tuttavia la sua vittoria era destinata a durare poco. Qualche mese dopo, un misterioso assassino la avvelenò e morì la mattina seguente.
+
+Secondo quello che dicono le persone che sono state più vicino a lei, il solo rammarico che aveva avuto era di non essere mai riuscita a creare un legame emozionale più stretto con <CHARNAME>.~
+@4    = ~Questa componente é installata.~
+@5    = ~Aah! Amo molto il sole che mi scalda la pelle.~ [R#ALSS01]
+@6    = ~Come fa la gente a vivere in questo modo a Faerun?~ [R#ALSS02]
+@7    = ~C'é qualcosa di più bello che il suono melodioso dei grilli?~ [R#ALSS03]
+@8    = ~Voglio levarmi gli abiti e correre nuda fra questi alberi!~ [R#ALSS04]
+@9    = ~Non mi sento a mio agio in questo posto innaturale.~ [R#ALSS05]
+@10   = ~Carica!~ [R#ALSS06]
+@11   = ~Senti la rabbia della natura!~ [R#ALSS07]
+@12   = ~Io colpisco rapidamente!~ [R#ALSS08]
+@13   = ~Ti farò ritornare da dove sei venuto!~ [R#ALSS09]
+@14   = ~Anche le grandi creature possono cadere!~ [R#ALSS10]
+@15   = ~Ora muori!~ [R#ALSS11]
+@16   = ~Accidenti! Ho sbagliato!~ [R#ALSS12]
+@17   = ~Questa cosa ha una forza nascosta!~ [R#ALSS13]
+@18   = ~Ow!~ [R#ALSS14]
+@19   = ~Immediatamente!~ [R#ALSS15]
+@20   = ~Il tuo desiderio é un mio comando!~ [R#ALSS16]
+@21   = ~Obbedirò.~ [R#ALSS17]
+@22   = ~Tu sei il capo.~ [R#ALSS18]
+@23   = ~Facciamolo!~ [R#ALSS19]
+@24   = ~Con la velocità di un ghepardo.~ [R#ALSS20]
+@25   = ~O-ok, ci vado.~ [R#ALSS21]
+@26   = ~Come posso servirti?~ [R#ALSS22]
+@27   = ~Hai bisogno di me?~ [R#ALSS23]
+@28   = ~It's just me!~ [R#ALSS24]
+@29   = ~Sono pronta!~ [R#ALSS25]
+@30   = ~Dimmi cosa devo fare.~ [R#ALSS26]
+@31   = ~Mi vuoi?~ [R#ALSS27]
+@32   = ~Credo che dovremmo essere fidanzati se vuoi continuare a toccarmi così.~ [R#ALSS28]
+@33   = ~Non credo ti piacerebbe se io continuassi a ciccare su di te come stai facendo tu!! Click, click, click!~ [R#ALSS29]
+@34   = ~Q-Questa... cosa ha infranto il mio incantesimo!~ [R#ALSS30]
+@35   = ~Mi dispiace, ma il mio bagaglio è pieno. (risatina) Oops, é caduto qualcosa.~ [R#ALSS31]
+@36   = ~Non sono un albero... Non voglio rimanere qui ferma.~ [R#ALSS32]
+@37   = ~Non voglio morire! Qualcuno mi aiuti!~ [R#ALSS33]
+@38   = ~Sto sanguinando e ho bisogno d'aiuto!~ [R#ALSS34]
+@39   = ~Io... Io non sono veramente capace a comandare.~ [R#ALSS35]
+@40   = ~I miei occhi sono stanchi. Ho bisogno di riposare se hai bisogno del mio aiuto.~ [R#ALSS36]
+@41   = ~Siamo molto simili!~ [R#ALSS37]
+@42   = ~Spero che non mi dovrò pentire di viaggiare con te.~ [R#ALSS38]
+@43   = ~T-Tu sei una persona terribile! I-Io me ne vado, ti lascio!~ [R#ALSS39]
+@44   = ~Queste azioni malvagie non devono continuare!~ [R#ALSS40]
+@45   = ~Me ne vado!~ [R#ALSS41]
+

@@ -1,0 +1,8 @@
+@0    = ~I do not wish to leave your company, but if you feel that this is for the best then I shall not question you.~ [R#ALLP06]
+@1    = ~I do. Farewell, Allison.~
+@2    = ~Sorry. I do not wish you to leave.~
+@3    = ~I shall wait here, should you change your mind.~ [R#ALLP07]
+@4    = ~I am glad to hear that, <CHARNAME>.~ [R#ALLP08]
+@5    = ~You return! Does this mean that you wish my company again? (she looks at you hopefully)~ [R#ALLP09]
+@6    = ~It does. Please rejoin the party.~
+@7    = ~No, sorry. I thought you were someone else.~

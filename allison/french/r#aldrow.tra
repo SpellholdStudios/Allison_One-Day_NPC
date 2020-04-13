@@ -1,0 +1,43 @@
+// Le pack voix d’Elfe noir d’Allison
+
+/* MORALE */              @0  = ~Je refuse de mourir des mains de cet imbécile!~ []
+/* HAPPY */
+/* UNHAPPY_ANNOYED */     @2  = ~Pourquoi je perds mon temps avec ces imbéciles?~ []
+/* UNHAPPY_SERIOUS */
+/* UNHAPPY_BREAKING */
+/* LEADER */              @5  = ~Les femelles sont vraiment le sexe fort.~ []
+/* TIRED */               @6  = ~Nous devrions nous reposer, *maintenant.*~ []
+/* BORED */               @7  = ~Pourquoi restons nous ici à ne rien faire ? J'exige que l'on fasse quelque chose !~ []
+/* BATTLE_CRY1 */
+/* BATTLE_CRY2 */
+/* BATTLE_CRY3 */
+/* BATTLE_CRY4 */
+/* BATTLE_CRY5 */
+/* DAMAGE */              @13  = ~Ouille!~ []
+/* DYING */
+/* HURT */                @15  = ~Mon beau corps est couvert de sang!~ []
+/* AREA_FOREST */         @16  = ~Toute cette verdure est... c'est *écoeurant* !~ []
+/* AREA_CITY */           @17  = ~Ha, la cité. Elle est remplie d'individus à asservir.~ []
+/* AREA_DUNGEON */        @18  = ~Nous pouvons faire mieux dans un donjon que de trouver des trésors...~ [] // Cette ligne pourrait être galante
+/* AREA_DAY */            @19  = ~La lumière ! Elle BRULE !~ []
+/* AREA_NIGHT */          @20  = ~Il est plus facile, de surprendre nos ennemis sans bruit, dans l'obscurité.~ []
+/* SELECT_COMMON1 */      @21  = ~Que voulez *vous* ?~ []
+/* SELECT_COMMON2 */      @22  = ~Pourquoi m'importunez-vous ?~ []
+/* SELECT_COMMON3 */      @23  = ~Je suis là.~ []
+/* SELECT_COMMON4 */      @24  = ~Quoi maintenant?~ []
+/* SELECT_COMMON5 */
+/* SELECT_COMMON6 */
+/* SELECT_ACTION1 */      @27  = ~J'obéirai à vos ordres.~ []
+/* SELECT_ACTION2 */
+/* SELECT_ACTION3 */
+/* SELECT_ACTION4 */
+/* SELECT_ACTION5 */
+/* SELECT_ACTION6 */
+/* SELECT_ACTION7 */
+/* SELECT_RARE1 */        @34  = ~Détournez vos yeux de mon derrière !~ []
+/* SELECT_RARE2 */        @35  = ~Vous aimez ce que vous voyez, hmm ?~ [] // Cette ligne pourrait être très galante
+/* CRITICAL_HIT */        @36  = ~Meurs ! Haha !~ []
+/* CRITICAL_MISS */
+/* TARGET_IMMUNE */
+/* INVENTORY_FULL */      @39  = ~Je *ne* porterai pas ceci !~ []
+/* SPELL_DISRUPTED */

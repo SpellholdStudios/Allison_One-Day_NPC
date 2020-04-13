@@ -1,0 +1,12 @@
+@0    = ~I do not wish to leave your side, <CHARNAME>. Are you certain about this?~ [R#ALLP01]
+@1    = ~Yes. Unfortunately, I feel it is for the best if we part ways.~
+@2    = ~No, my apologies. I meant to give the heave-ho to that twit Jan.~
+@3    = ~Well, I did not wish this but it seems that I have no choice.~ [R#ALLP02]
+@4    = ~Should you have need of me once again, you may find me in the Druid Grove.~ [R#ALLP03]
+@5    = ~Very well. We shall meet you at the Druid Grove if we need you again.~
+@6    = ~That's not possible. Just wait here and we'll return if you are needed.~
+@7    = ~I am glad to hear that you still desire my company. We shall continue onward!~ [R#ALLP04]
+@8    = ~You return! Decided that you need my company after all?~ [R#ALLP05]
+@9    = ~(she runs up and gives you a tight hug)~
+@10   = ~Yes. Please rejoin the party.~
+@11   = ~No, you aren't needed right now. So sorry.~

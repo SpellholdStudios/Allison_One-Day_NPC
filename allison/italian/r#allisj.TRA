@@ -1,0 +1,44 @@
+@0    = ~Ti sfido ad un rituale di combattimento secondo i principi delle più antiche tradizioni druidiche.~ [R#ALIJ01]
+@1    = ~Non sono sicura di essere proprio d'accordo con te, <CHARNAME>. Mi arrenderò al tuo giudizio, tuttavia.~
+@2    = ~Naturalmente.~
+@3    = ~(lei si avvicina e ti sostiene)~
+@4    = ~Mi hai aiutato a fare cose che credevo impossibili. Ti sono debitrice... e...~ [R#ALIJ02]
+@5    = ~Cosa c'é?~
+@6    = ~Io... ho dei sentimenti per te, <CHARNAME>. Non posso rimanere qui mentre tu vai a combattere. No, io verrò.~ [R#ALIJ03]
+@7    = ~Irenicus, la tua contaminazione dell'Albero della Vita é un affronto a tutto quello che io rappresento! Non sopravviverai a vedere l'alba di domani!~ [R#ALIJ04]
+@8    = ~Gli antichi rituali ancora valgono in questo bosco. Come druida, é nel diritto di Allison sfidarti per porre fine alla tua tirannia qui.~
+@9    = ~Credi di impaurirmi o che non sia pronta ad affrontarti? Se lo credi ti sbagli. Ho preso il controllo di questo bosco con la forza e ne conserverò il controllo con lo stesso metodo.~
+@10   = ~Accetto la sfida. La tua sconfitta servirà solo a rafforzare ulteriormente il potere dei Druidi Tenebrosi in questo bosco!~
+@11   = ~Problema degli animali a Trademeet: La sfida di Allison.
+
+Allison ha sfidato Faldorn in un duello fino alla morte. L'esito di questa battaglia determinerà il destino dei Druidi e di Trademeet.~
+@12   = ~Tutto quello che tu rappresenti é un offesa contro la natura, Irenicus! La natura compirà la sua vendetta con il tuo sangue!~ [R#ALIJ05]
+@13   = ~Irenicus sta cercando di distruggere l'Albero della Vita? Questo crimine non deve essere permesso! Non lo permetterò!~
+@14   = ~Non hai un bell'aspetto, <CHARNAME>. E' tutto a posto? Stai bene?~ [R#ALIJ06]
+@15   = ~Si, sto bene grazie.~
+@16   = ~Non so. Puoi aiutarmi a  tenermi in piedi?~
+@17   = ~Cos'é questo posto? Non ci sono alberi, ne erba, ne animali... Non mi piace affatto qui. Dobbiamo provare ad uscire!~
+@18   = ~Allison, l'affettuosa giovane druida. E' stata la tua compagna da quando l'hai aiutata a salvare il Bosco del Druido. Una parte di te è dispiaciuta di non aver mai avuto la possibilità di creare una relazione più profonda con lei.~
+@19   = ~Lei ti sorride appena ti giri verso di lei.~
+@20   = ~Allison, tu non sei obbligata a farlo. Questa è la mia guerra.~
+@21   = ~Allison, tu conosci il potere di Irenicus. Non è necessario che metti in pericolo la tua vita se non lo desideri.~
+@22   = ~Sei con me? Devo sapere che tutti sono con me prima di andare avanti.~
+@23   = ~Perché dovresti tradire le vite delle persone in città? Perché dovresti voler uccidere migliaia di persone?~
+@24   = ~Ho le mie ragioni.~
+@25   = ~Tu sei la regina di Suldanesselar? Oh, lo splendore della tua bellezza é veramente sensazionale.~ [R#ALIJ07]
+@26   = ~E così l'assassino è qui! Ha ha! <CHARNAME> è venuto per uccidere Gromnir, eh? HAH!!! Buon divertimento!!~ [GROM13]
+@27   = ~Non siamo venuti per ucciderti, Gromnir. Siamo venuti per parlare.~
+@28   = ~Hai tradito il tuo signore e maestro?! Simili crimini meritano solo la morte! E noi saremo i portatori di questa morte!~ [R#ALIJ08]
+@29   = ~Non continuerai con la tua vendetta, Irenicus! Il tuo regno di follia finisce qui!~ [R#ALIJ09]
+@30   = ~Oh, cosa abbiamo qui? Una giovane e graziosa druida? Sei venuta per... "rilassarti"?~
+@31   = ~In realtà si. Cosa proponi di fare, amico?~
+@32   = ~Un confortevole massaggio con dell'olio-caldo seguito da una serata di estasi tra le mie braccia.~
+@33   = ~Sembra gradevole. Ma per prima cosa, gradirei che ti liberassi degli insetti nocivi.~
+@34   = ~Insetti nocivi? Mia signora, ti assicuro...~
+@35   = ~Beh, se vuoi il massaggio tradizionale richiede diverse settimane.~
+@36   = ~Diverse settimane solo con te? Devo essere in paradiso...~
+@37   = ~O potrei semplicemente dirti di spostarti.~
+@38   = ~Si, penso che farò la seconda cosa.~
+@39   = ~Sono con te, <CHARNAME>, anche se sarebbe bello vedere che agisci come se avessi a cuore il mio benessere.~ [R#ALIJ10]
+@40   = ~Allora girati e torna verso gli altri tuoi compagni.~
+

@@ -1,0 +1,50 @@
+@0    = ~Allison (One-Day NPC) v1.6~
+@1    = ~Allison~
+@2    = ~ALLISON a su très tôt qu'elle était destinée à devenir une druide. Elle raconte des histories sur ses rêves d’enfant qui figuraient déjà un tel avenir. Elle explique qu'elle n'a pas eu une vie très mouvementée, mais ce qui lui fait le plus plaisir et d'être présente à vos cotés.~
+@3    = ~Après avoir quitté le groupe de <CHARNAME>, Allison retrouva la solitude des bois. Là bas, elle accomplit les devoirs de tout bon druide. Sa vie ne fut guère passionnante, à l'exception de quelques incidents.
+
+A la veille de ses 178 ans, un vieil ami vint la voir et l'informa qu'un autre druide de l'ombre avait pris la tête du Bosquet des Druides. Allison s'y rendit, vainquit le nouveau Grand Druide en combat rituel et devint la nouvelle dirigeante du bosquet. Toutefois, sa victoire fut de courte durée. Seulement quelques mois plus tard, un mystérieux assassin l'empoisonnât. Elle périt le matin suivant.
+
+Selon son entourage proche, le seul regret qu'elle a eu dans sa courte vie était le fait de ne jamais avoir eu la possibilité de développer une lien affectif avec <CHARNAME>.~
+@4    = ~Ce composant est cours d'installation.~
+@5    = ~Aah ! J'adore la morsure du soleil sur ma peau.~ [R#ALSS01]
+@6    = ~Comment les gens peuvent-ils vivre dans cette contrée escarpée de Féérûne?~ [R#ALSS02]
+@7    = ~Existe-t-il quelque chose de plus charmant que le chant des criquets?~ [R#ALSS03]
+@8    = ~Je veux arracher mes vêtements et courir nue à travers ces arbres !~ [R#ALSS04]
+@9    = ~Je ne suis pas très à l'aise un endroit aussi artificiel.~ [R#ALSS05]
+@10   = ~Chargez !~ [R#ALSS06]
+@11   = ~Sentez le courroux de la nature !~ [R#ALSS07]
+@12   = ~Je frappe vivement !~ [R#ALSS08]
+@13   = ~Je vous ferai retourner à la terre dont vous venez !~ [R#ALSS09]
+@14   = ~Même les plus imposantes créatures peuvent s'effondrer !~ [R#ALSS10]
+@15   = ~Meurs maintenant !~ [R#ALSS11]
+@16   = ~Zut ! Raté !~ [R#ALSS12]
+@17   = ~Cette chose a la peau dure !~ [R#ALSS13]
+@18   = ~Aïe !~ [R#ALSS14]
+@19   = ~Maintenant !~ [R#ALSS15]
+@20   = ~Tes désirs sont des ordres !~ [R#ALSS16]
+@21   = ~J'obéirai.~ [R#ALSS17]
+@22   = ~C'est toi le chef.~ [R#ALSS18]
+@23   = ~Faisons-le !~ [R#ALSS19]
+@24   = ~Aussi rapide que le guépard.~ [R#ALSS20]
+@25   = ~D-d'accord, j'y vais.~ [R#ALSS21]
+@26   = ~En quoi puis-je te servir ?~ [R#ALSS22]
+@27   = ~As-tu besoin de moi ?~ [R#ALSS23]
+@28   = ~C'est juste moi !~ [R#ALSS24]
+@29   = ~Je suis à toi !~ [R#ALSS25]
+@30   = ~Dis-moi ce que je dois faire.~ [R#ALSS26]
+@31   = ~Que me veux-tu ?~ [R#ALSS27]
+@32   = ~Peut être que devrions-nous nous fiancer avant de continuer à me toucher ainsi.~ [R#ALSS28]
+@33   = ~Comment réagirais-tu si je n’arrêtais pas de te taquiner? Pic, pic, pic!~ [R#ALSS29]
+@34   = ~C-Cette... chose a perturbé mon incantation !~ [R#ALSS30]
+@35   = ~Désolée, mais mon inventaire est plein. (gloussement) Oups, quelque chose est tombé.~ [R#ALSS31]
+@36   = ~Je ne suis pas un arbre... Je ne veux pas rester plantée là.~ [R#ALSS32]
+@37   = ~Je ne veux pas mourir! Que quelqu'un m'aide!~ [R#ALSS33]
+@38   = ~Je saigne et j'ai besoin d'aide!~ [R#ALSS34]
+@39   = ~Je... Je ne suis pas très bonne pour mener.~ [R#ALSS35]
+@40   = ~Mes yeux sont fatigués. J'ai besoin de repos pour t'être utile.~ [R#ALSS36]
+@41   = ~Je me sens si proche de toi !~ [R#ALSS37]
+@42   = ~J'espère ne pas regretter de voyager avec toi.~ [R#ALSS38]
+@43   = ~Tu es une personne épouvantable ! Je-je vais partir !~ [R#ALSS39]
+@44   = ~Ces mauvaises actions ne doivent pas continuer !~ [R#ALSS40]
+@45   = ~Je m'en vais !~ [R#ALSS41]

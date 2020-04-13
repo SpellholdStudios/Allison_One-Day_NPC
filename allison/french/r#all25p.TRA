@@ -1,0 +1,8 @@
+@0    = ~Je ne souhaite pas quitter ta compagnie, mais si tu considères que c'est pour le mieux, alors je ne mettrai pas en doute ta décision.~ [R#ALLP06]
+@1    = ~Je dois le faire. Porte toi bien, Allison.~
+@2    = ~Désolé. Je ne souhaite pas que tu partes.~ ~Désolée. Je ne souhaite pas que tu partes.~
+@3    = ~J'attendrai ici, au cas où tu changerais d'avis.~ [R#ALLP07]
+@4    = ~Je suis heureuse de l'entendre, <CHARNAME>.~ [R#ALLP08]
+@5    = ~Tu es revenu ! Cela signifie-t-il que tu désires à nouveau ma compagnie ? (Elle vous regarde avec espoir)~ ~Tu es revenue ! Cela signifie-t-il que tu désires à nouveau ma compagnie ? (Elle vous regarde avec espoir)~ [R#ALLP09]
+@6    = ~En effet. Rejoins le groupe s'il te plait.~
+@7    = ~Non, désolé. Je t'ai prise pour quelqu'un d'autre.~ ~Non, désolée. Je t'ai prise pour quelqu'un d'autre.~
