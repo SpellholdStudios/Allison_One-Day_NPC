@@ -1,3 +1,8 @@
+<hr>
+
+:warning: **The maintenance and support of this project has been moved to a [new repository](https://github.com/Spellhold-Studios/Allison-One-Day-NPC).**
+
+<hr><br>
 
 ![Latest Release](https://img.shields.io/github/v/release/SpellholdStudios/Allison_One_Day_NPC?include_prereleases&color=darkred)<a name="top" id="top"> </a>
 ![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20Mac%20%7C%20linux&color=informational)
@@ -138,7 +143,7 @@ In addition to the methods above for removing individual components, you can com
 #### Version 1.6 (1 October 2007)
 
 - Added voice-acting (thanks Riviera!)
-- Allison’s epilogue now actually works.
+- Allisonâ€™s epilogue now actually works.
 - Upgraded WeiDU installer to v201.
 
 ## 
